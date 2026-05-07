@@ -64,14 +64,17 @@ https://image.tmdb.org/t/p/w185/abc123.jpg
 
 Informações completas em:
 
-[Como mostrar a imagem do filme usando a API do TMDB
-](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20a%20imagem%20do%20filme.md)
+[Como mostrar a imagem do filme usando a API do TMDB](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20a%20imagem%20do%20filme.md)
 
 ## Gêneros dos filmes
 
 Na listagem de filmes em cartaz, os gêneros aparecem como números no campo `genre_ids`. Para transformar esses números em nomes, será necessário consultar a lista de gêneros da API do TMDB.[2]
 
 Depois disso, o sistema deverá comparar os IDs do filme com os IDs da lista de gêneros e exibir os nomes encontrados.
+
+Informações completas em:
+
+[Como mostrar os gêneros](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20os%20ge%CC%82neros.md)
 
 ## Filtro no front-end
 
@@ -87,6 +90,10 @@ A pesquisa deve considerar:
 
 Para essa etapa, podem ser usados métodos de array como `filter` e `map`.
 
+Informações completas em:
+
+[Como filtrar](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20usar%20filtrar.md)
+
 ## Entrega esperada
 
 Ao final desta parte, a aplicação deverá mostrar uma lista de filmes em cartaz contendo **imagem**, **título**, **descrição** e **gêneros**. Além disso, o usuário deverá conseguir pesquisar filmes pelo título ou pela descrição usando um único campo de texto.
@@ -100,6 +107,14 @@ Ao final desta parte, a aplicação deverá mostrar uma lista de filmes em carta
 | Filtro | O campo de pesquisa filtra por título ou descrição. |
 | Front-end | O filtro acontece sem recarregar a página. |
 | Lista original | Ao limpar o campo de pesquisa, todos os filmes voltam a aparecer. |
+
+## Materiais de apoio
+
+| Tema | Link |
+|---|---|
+| Imagem do pôster | [Como mostrar a imagem do filme usando a API do TMDB](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20a%20imagem%20do%20filme.md) |
+| Gêneros dos filmes | [Como mostrar os gêneros](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20os%20ge%CC%82neros.md) |
+| Filtro no front-end | [Como usar filtrar](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20usar%20filtrar.md) |
 
 ## Referências
 
