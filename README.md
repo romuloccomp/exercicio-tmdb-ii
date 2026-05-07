@@ -62,6 +62,11 @@ A imagem completa será:
 https://image.tmdb.org/t/p/w185/abc123.jpg
 ```
 
+Informações completas em:
+
+[Como mostrar a imagem do filme usando a API do TMDB
+](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20a%20imagem%20do%20filme.md)
+
 ## Gêneros dos filmes
 
 Na listagem de filmes em cartaz, os gêneros aparecem como números no campo `genre_ids`. Para transformar esses números em nomes, será necessário consultar a lista de gêneros da API do TMDB.[2]
