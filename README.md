@@ -72,6 +72,8 @@ Na listagem de filmes em cartaz, os gêneros aparecem como números no campo `ge
 
 Depois disso, o sistema deverá comparar os IDs do filme com os IDs da lista de gêneros e exibir os nomes encontrados.
 
+API/URL de gêneros: https://api.themoviedb.org/3/genre/movie/list?language=pt-BR
+
 Informações completas em:
 
 [Como mostrar os gêneros](https://github.com/romuloccomp/exercicio-tmdb-ii/blob/main/Como%20mostrar%20os%20ge%CC%82neros.md)
